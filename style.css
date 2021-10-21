@@ -1,0 +1,107 @@
+p {
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+  font-family: Red Hat Display;
+  font-size: 15px;
+}
+p.info {
+  color: hsl(224, 23%, 55%);
+  line-height: 1.5;
+}
+.main-container 
+  { 
+  text-align: center;
+  margin: auto;
+  margin-top: 6%;
+  margin-bottom: 4%;
+  width: 25%;
+  background: white;
+  border-radius: 5%;
+  align-items: center;
+  box-sizing: border-box;
+  box-shadow: black;
+}
+body {
+  background-image: url("../images/pattern-background-desktop.svg");
+}
+.illustration-hero {
+  text-align: center;
+  width: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.icon-music {
+  padding: 4% ;
+  float: left;
+  padding-top: 7.5%;
+}
+.order-summary-component {
+  width: 83%;
+  height: 90px;
+  background-color: hsl(225, 100%, 98%); 
+  border-radius: 8px;
+  margin: 6% auto 8%;
+}
+.annual-plan {
+  font-weight: 900;
+  position: relative;
+  right: 18%;
+  padding-top: 8% ;
+}
+.amount {
+  position: relative;
+  right: 18%;
+  top: 5px;
+}
+.change {
+  color: hsl(224, 23%, 55%);
+  position: relative;
+  left: 28%;
+  bottom: 23px;
+  
+}
+.change:hover {
+  color: hsl(245, 75%, 52%);
+text-decoration: underline;
+}
+  
+.btn {
+  background-image: -webkit-linear-gradient(top, hsl(224, 23%, 55%),hsl(224, 40%, 46%));
+  background-image: -moz-linear-gradient(top, hsl(224, 23%, 55%),hsl(224, 23%, 55%));
+  background-image: -ms-linear-gradient(top, hsl(224, 23%, 55%),hsl(224, 23%, 55%));
+   background-image: linear-gradient(bottom,hsl(224, 23%, 55%),hsl(224, 23%, 55%));
+   text-decoration: none;
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 11px;
+  padding: 10px 5px;
+  box-shadow: 2px 20px 12px hsl(225, 100%, 94%)
+}
+.btn:hover {
+  background-image: -webkit-linear-gradient(top,  hsl(245, 75%, 52%), hsl(245, 75%, 52%));
+  background-image: -moz-linear-gradient(top,  hsl(245, 75%, 52%),  hsl(245, 75%, 52%));
+  background-image: -ms-linear-gradient(top,  hsl(245, 75%, 52%),  hsl(245, 75%, 52%));
+  background-image: linear-gradient(bottom,  hsl(245, 75%, 52%),   hsl(245, 75%, 52%));
+  text-decoration: none;
+}
+.cancel-order {
+  padding-top: 7%;
+  padding-bottom: 10%;
+  font-weight: 700;
+  text-decoration-thickness: 500px;
+}
+.cancel-order:hover {
+  color: hsl(228, 34%, 44%);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 34%, 44%);
+}
