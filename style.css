@@ -22,8 +22,9 @@ p.info {
   box-sizing: border-box;
   box-shadow: black;
 }
-body {
-  background-image: url("../images/pattern-background-desktop.svg");
+body {background-color: hsl(225, 100%, 98%);
+  background-image: url(./images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
 }
 .illustration-hero {
   text-align: center;
