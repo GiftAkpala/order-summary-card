@@ -4,27 +4,21 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
 
 ### The challenge
 
 Users should be able to:
 
 - See hover states for interactive elements
+### Screenshot  
 
 ![Page screenshot](screenshot.png)  
 
@@ -32,8 +26,6 @@ Users should be able to:
 
 - Solution URL: (https://github.com/GiftAkpala/order-summary-card/)
 - Live Site URL: (https://giftakpala.github.io/order-summary-card/)
-
-## My process
 
 ### Built with
 
@@ -44,16 +36,11 @@ Users should be able to:
 
 - [Example resource 1](https://css3buttongenerator.com/) - This helped me in generating a button . I really liked this pattern and will use it going forward.
 
-## Author
+## Author  
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@Akpala Gift](https://www.frontendmentor.io/profile/GiftAkpala)
+- Twitter - [@Akpala Gift](https://www.twitter.com/GiftAkpala)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-\*\*Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.
+A big thank you to my friend Collims for helping me out in making this sucessful.
